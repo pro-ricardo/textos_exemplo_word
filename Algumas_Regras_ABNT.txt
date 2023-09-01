@@ -1,0 +1,23 @@
+1 - Folha A4
+2 - Titulos e subtitulos em tamanho 12 e negrito, texto     em 12 sem negrito. Sub-item de um titulo sublinhado;
+3 - Citações tamanho 10
+4 - Citações alinhadas a direita
+5 - Texto do trabalho Justificado
+6 - Se houver palavras em inglês, em itálico
+7 - Margens: Direita e inferior: 2cm / Esquerda e         superior: 3cm
+8 - Parágrafos / Espaçamento: 1,5 entre linhas;
+9 - Capa – (Elemento obrigatório) Na Capa deve constar:     O nome da Instituição, Curso, Autor, Título, Cidade      e Ano. 
+10 - Folha de rosto– (Obrigatório). Na folha de rosto         devem constar os itens abaixo:
+     Nome do autor, Título do Trabalho, Cidade, Ano,          Breve descrição do trabalho, onde deve estar           incluído o objetivo e o nome do Orientador.
+11 - Número das páginas no rodapé a direita a partir da      "INTRODUÇÃO" do trabalho
+12 - Inserir sumário (indice) após a folha de rosto;
+
+
+NBR 14724/2011 - Trabalho Acadêmico.
+NBR 10520/2023 - Citações.
+NBR 6023/2018 - Referências.
+NBR 6027/2012 - Sumário.
+NBR 6028/2003 - Resumo e Abstract.
+NBR 6024/2012 - Numeração progressiva das seções de um documento.
+NBR 6034/2004 - Índice.
+NBR 15287/2011 - Projeto de pesquisa.
